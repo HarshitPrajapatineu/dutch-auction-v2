@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+![image](https://github.com/HarshitPrajapatineu/dutch-auction-v2/assets/113490678/558ae97f-1357-4711-a49c-188797a8a1d6)
